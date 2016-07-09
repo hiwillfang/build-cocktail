@@ -1,7 +1,7 @@
 # Starter Build Files
 ==============================================
 
-A boilerplate setup that inclues Gulp, BrowserSync SASS, Bourbon, Neat, and Bitters for new projects.
+A boilerplate setup that inclues Gulp, BrowserSync SASS, Icomoon Icons, Bourbon, Neat, and Bitters for new projects.
 
 Repo Contents
 =============
@@ -9,6 +9,7 @@ Repo Contents
 * Bourbon
 * Neat
 * Bitters
+* Icomoon Icons
 * SASS
 * Gulp
 * BrowserSync
